@@ -26,3 +26,7 @@ Here is my personal EFI spoofer. You can change serials in `Startup.nsh`.
 ## ✏️ Customize
 
 To customize the serial numbers, open `Startup.nsh` and modify the serials (e.g., `65D4F654SD56SDF6`).
+
+## ⚠️ Warning
+
+If you don't modify `Startup.nsh`, it will null your serials. I recommend putting random 16 digits to make it credible.
